@@ -11,8 +11,8 @@
   padding: 0 30px;
 }
 
-.goldenrod {
-  background-color: goldenrod;
+.goldenrod p {
+  color: goldenrod;
 }
 
 .dashed {
@@ -21,11 +21,6 @@
 
 .new_header {
   color: red;
-}
-
-.goldenrod {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: goldenrod;
 }
 
 .important {
