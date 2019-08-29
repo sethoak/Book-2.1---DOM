@@ -1,6 +1,6 @@
-# book2.1
+#The Neophyte
 
-In this book, I will demonstrate a strong foundation of skills and practices that will serve myself throughout the work shown, and the entirety of my career as a software developer on this curriculmn. Once complete, I will be ready to begin my initiation into the world of modern development - using all the tools and libraries that are popular today.
+In this section, I will demonstrate a strong foundation of skills and practices that will serve myself throughout the work shown, and the entirety of my career as a software developer on this curriculmn. Once complete, I will be ready to begin my initiation into the world of modern development - using all the tools and libraries that are popular today.
 
 I will learn not only the basics of coding, design, and teamwork skills, but I will also unlock the secrets and power of my computer, making it bend to my will. My computer is the instrument of the craft, and to become a true professional, I must have proficiency and knowledge of it.
 
