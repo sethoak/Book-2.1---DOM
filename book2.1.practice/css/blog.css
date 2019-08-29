@@ -18,3 +18,7 @@
 .dashed {
   border: 1px dashed black;
 }
+
+.new_header {
+  color: red;
+}
