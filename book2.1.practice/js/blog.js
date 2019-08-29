@@ -19,12 +19,13 @@ console.log("seekANDdestroy", seekANDdestroy);
 /*
 Use JavaScript to obtain a reference to all article__header elements and change 
 their classList property value to article__header important.
-
-
-const seekALL = document.querySelectorAll(".article__header");
-seekALL.classList.remove("article__header");
-seekALL.classList.add("article__header2");
 */
+
+const alterhead = document.querySelectorAll(".article__header");
+for (let i = 0; i < alterhead.length; i++) {
+  console.log("alterhead", alterhead[i]);
+  alterhead[i].classList.add("important");
+}
 
 //Obtain a reference the element with a class of dashed and remove it.
 
@@ -36,4 +37,6 @@ Obtain a reference the element with a class of article_footer and add the
 class of goldenrod it.
 */
 
-document.getElementsByClassName(".article_footer").style.color = "goldenrod";
+const goldenRODcolor = document.querySelector(".article__footer");
+goldenRODcolor.classList.remove("article__footer");
+goldenRODcolor.classList.add("goldenrod");

@@ -23,6 +23,11 @@
   color: red;
 }
 
-.article_header2 {
+.goldenrod {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: goldenrod;
+}
+
+.important {
+  color: pink;
 }
