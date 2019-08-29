@@ -1,1 +1,3 @@
-# book2.1
+# Introduction
+
+Query the DOM with querySelector()
